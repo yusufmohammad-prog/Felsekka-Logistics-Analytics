@@ -1,4 +1,4 @@
-# 🚚 Felsekka Logistics Analytics Dashboard
+#  Felsekka Logistics Analytics Dashboard
 
 ### Transforming Logistics Data into Actionable Business Insights
 
@@ -8,7 +8,7 @@ Felsekka Logistics Analytics is a Power BI project designed to analyze logistics
 
 The project transforms logistics data into interactive visualizations and Key Performance Indicators (KPIs) to help stakeholders monitor operational performance, understand cost drivers, and identify opportunities for improvement.
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 * Monitor fleet utilization and vehicle performance.
 * Analyze revenue generation and mileage efficiency.
@@ -17,14 +17,14 @@ The project transforms logistics data into interactive visualizations and Key Pe
 * Explore driver, delivery, and safety performance.
 * Support data-driven operational decisions.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Microsoft Power BI** — Dashboard development and visualization.
 * **Microsoft Excel** — Data preparation and initial data handling.
 * **DAX** — Measures and KPI calculations.
 * **Data Modeling** — Organizing data for analytical reporting.
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 The data preparation stage focused on organizing and preparing the dataset for analysis.
 
@@ -35,7 +35,7 @@ Key activities included:
 * Organizing the data model to support meaningful relationships and reporting.
 * Preparing the data for KPI calculations and interactive dashboards.
 
-## 📊 Key Performance Indicators
+##  Key Performance Indicators
 
 The dashboard includes measures designed to evaluate financial and operational performance, including:
 
@@ -49,7 +49,7 @@ The dashboard includes measures designed to evaluate financial and operational p
 | Maintenance Cost Per Mile | Maintenance expenses relative to mileage.           |
 | Total Downtime Hours      | Total time vehicles were unavailable for operation. |
 
-## 🚛 Fleet Performance Analysis
+##  Fleet Performance Analysis
 
 This section focuses on fleet efficiency and financial performance.
 
@@ -63,13 +63,13 @@ Key analytical areas include:
 
 These insights help identify operational inefficiencies and opportunities to improve fleet performance.
 
-## 👨‍✈️ Driver, Delivery & Safety Performance
+##  Driver, Delivery & Safety Performance
 
 This dashboard section focuses on driver performance, delivery operations, and safety-related indicators.
 
 It is designed to help stakeholders explore operational trends, evaluate performance, and identify areas that may require further investigation.
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 * Interactive Power BI visualizations.
 * KPI cards for quick performance monitoring.
@@ -78,7 +78,7 @@ It is designed to help stakeholders explore operational trends, evaluate perform
 * Operational efficiency indicators.
 * Driver, delivery, and safety reporting.
 
-## 💡 Business Value
+##  Business Value
 
 The project demonstrates how logistics data can be transformed into a structured analytical dashboard that supports:
 
