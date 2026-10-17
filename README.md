@@ -107,7 +107,7 @@ Aspiring Data Analyst | Power BI Developer
 
 ### 2. Fleet Performance
 
-![Fleet Performance Dashboard](Screenshots/Fleet Performance.png)
+![Fleet Performance Dashboard](Screenshots/FleetPerformance.png)
 
 ### 3. Driver_Safety 
 
