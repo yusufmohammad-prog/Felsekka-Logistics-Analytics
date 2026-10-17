@@ -99,6 +99,20 @@ Aspiring Data Analyst | Power BI Developer
 
 * **Tools:** Power BI, Excel, DAX
 * **Project:** Felsekka Logistics Analytics Dashboard
+* ## 🖥️ Dashboard Preview
+
+### 1. Overview
+
+![Felsekka Overview Dashboard](Screenshots/Overview.png)
+
+### 2. Fleet Performance
+
+![Fleet Performance Dashboard](Screenshots/FleetPerformance.png)
+
+### 3. Driver_Safety 
+
+![Driver, Delivery & Safety Dashboard](Screenshots/Driver_Safety.png)
+
 
 
 *This project demonstrates the application of data preparation, data modeling, KPI development, and interactive visualization to logistics analytics.*
